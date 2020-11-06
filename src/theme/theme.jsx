@@ -25,7 +25,7 @@ export const colors = {
   lightGray: "#737373",
   lightBlack: "#6a6a6a",
   darkBlack: "#141414",
-  green: '#1abc9c',
+  green: '#86b300',
   red: '#ed4337',
   orange: 'orange',
   pink: '#DC6BE5',
